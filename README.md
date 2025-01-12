@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-`rgb(55,155,7)`
 This site is my favourite [snowreport](https://www.snowreport.gr/).
 
