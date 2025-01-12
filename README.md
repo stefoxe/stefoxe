@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 `rgb(55,155,7)`
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site is my favourite [snowreport]([https:www.snowreport.gr/)).
 
